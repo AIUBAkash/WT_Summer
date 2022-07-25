@@ -13,7 +13,7 @@ text-align: center;
 
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgb(0,255,255);
+    background-color: rgb(106, 255, 255);
     padding: 15px;
     width: 1500px;
     height: 1500px;
@@ -22,14 +22,14 @@ body{
 
 div.topnav{
     top: 20px;
-    border: 3px solid rgb(128, 0, 128);
-    background-color:rgb(128, 0, 128) ;
+    border: 3px solid rgb(35, 8, 35);
+    background-color:rgb(68, 17, 68) ;
     
 }
 .topnav {
     
     overflow: hidden;
-    background-color: rgb(75, 0, 130);
+    background-color: rgb(36, 5, 36);
   }
 
   .topnav a{
@@ -41,24 +41,24 @@ div.topnav{
     text-decoration: none;
   }
   .topnav a:hover {
-    background-color: rgb(0,255,255);
+    background-color: rgb(115, 35, 234);
     color: black;
   }
 div.regform{
-    background-color: rgb(240, 255, 240);
-    border-left:  10px solid rgb(32, 178, 170);
+    background-color: rgb(204, 220, 204);
+    border-left:  10px solid rgb(25, 142, 136);
     font-family: 'Times New Roman';
 }
 
 
 table th,td{
-   background-color: rgb(248, 248, 131);
+   background-color: rgb(238, 238, 158);
 }
 .button{
-    background-color: rgb(0, 128, 128);
+    background-color: rgb(34, 105, 105);
     border-radius: 2px;
     
-    color: rgb(4, 10, 190);
+    color: rgb(6, 8, 63);
     padding: 10px 10px;
     text-align: center;
     text-decoration: none;
